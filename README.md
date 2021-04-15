@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-🔭 I’m currently working on: <a href="https://github.com/KonradGaik/PIZZA-POMIDORINO-PHP"><b>POMIDORINO-PHP</b></a>, <a href="https://github.com/KonradGaik/invoicesSystem"><b>An invoice system</b></a></br>
+🔭 I’m currently working on: <a href="https://github.com/KonradGaik/PIZZA-POMIDORINO-PHP"><b>POMIDORINO-PHP</b></a>, <a href="https://github.com/KonradGaik/invoicesSystem"><b>Invoices system</b></a></br>
 🌱 I’m currently learning PHP,JS</br>
 I work in silence 
 📫 Contact me: <ul>
