@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on: <a href="https://github.com/KonradGaik/PIZZA-POMIDORINO-PHP"><b>POMIDORINO-PHP</b></a> && <a href="https://github.com/KonradGaik/invoicesSystem"><b>An invoice system using the laravel framework</b></a></br>
 🌱 I’m currently learning PHP,JS</br>
-📫 Contact me: </br><ul>
+📫 Contact me: <ul>
 <li> <a href="https://www.instagram.com/konradgaik.pl/">INSTAGRAM</a></li>
 <li><a href="mailto:konradgaik@icloud.com">E-mail</a></li> 
 </ul>
