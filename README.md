@@ -9,5 +9,5 @@ I work in silence
 </ul>
 
 <h3>Fav quote:</h3>
-<ul><li> I work in silence, the sound of my Tesla's engine will make noise</li>
-  <li> Done is better than perfect.</li></ul>
+<ul><li><blockquote> I work in silence, the sound of my Tesla's engine will make noise</blockquote></li>
+ <li> <blockquote> Done is better than perfect.</blockquote></li></ul>
