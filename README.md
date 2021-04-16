@@ -7,6 +7,4 @@
 <li><a href="mailto:konradgaik@icloud.com">E-mail</a></li> 
 </ul>
 
-//<h3>Fav quote:</h3>
-//<blockquote> I work in silence, the sound of my Tesla's engine will make noise</blockquote>
-//<blockquote> Done is better than perfect.</blockquote>  -->
+
